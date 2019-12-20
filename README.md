@@ -68,7 +68,7 @@ After merge, we run additional tests that make more time to run. This gives us a
 
 ## Releases at Sprint Milestones
 
-At the end of the sprint, we create a release branch from the master branch: for example, at the end of sprint S29, we create a new branch `release/S29`. We then put S29 branch into production.
+At the end of the sprint, we create a release branch from the master branch: for example, at the end of sprint S29, we create a new branch `release/S29`. We then put `release/S29` branch into production.
 
 ![release branch](./assets/release_branch.jpg 'Release Branch')
 
@@ -90,12 +90,13 @@ To bring changes into production, once we have merged the Pull Request into mast
 
 ## Moving On
 
-After the sprint, we'll finish adding features to spring S30. To deploy, we'll create the new release branch, `release/S30` from master, and deploy that.
+After the sprint, we'll finish adding features to sprint `release/S30`. To deploy, we'll create the new release branch, `release/S30` from master, and deploy that.
 
-At this point we have two release branches. If S30 fails in production, we can revert back to S29 in a very ease way.
-Once S30 is deployed S29 is completely abandonned. We keep the 5 youngest branches. Older release branches can be deleted safely.
+At this point we have two release branches. If `release/S30` fails in production, we can revert back to `release/S29` in a very ease way.
+Once `release/S30` is deployed `release/S29` is completely abandonned. We keep the 5 youngest branches. Older release branches can be deleted safely.
 
-We ensured that any changes that we brought into the sprint S29 as a hotfix was also made in `master`. So those changes will also be in the `release/S30` branch that we create.
+
+We ensured that any changes that we brought into the sprint `release/S29` as a hotfix were also made in `master`. So those changes will also be in the `release/S30` branch that we create.
 
 ---
 <img src="./assets/DK-logo.jpg" height="75">
