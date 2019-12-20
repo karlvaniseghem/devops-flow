@@ -1,4 +1,5 @@
 # Introduction 
+
 A samle project to streamline the dev-to-production flow.
 
 
@@ -95,3 +96,6 @@ At this point we have two release branches. If S30 fails in production, we can r
 Once S30 is deployed S29 is completely abandonned. We keep the 5 youngest branches. Older release branches can be deleted safely.
 
 We ensured that any changes that we brought into the sprint S29 as a hotfix was also made in `master`. So those changes will also be in the `release/S30` branch that we create.
+
+---
+<img src="./assets/DK-logo.jpg" height="75">
