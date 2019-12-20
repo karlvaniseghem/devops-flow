@@ -89,7 +89,7 @@ To bring changes into production, once we have merged the Pull Request into mast
 
 ## Moving On
 
-After the spring, we'll finish adding features to spring S30. To dpeloy, we'll create the new release branch, `release/S30` from master, and deploy that.
+After the sprint, we'll finish adding features to spring S30. To deploy, we'll create the new release branch, `release/S30` from master, and deploy that.
 
 At this point we have two release branches. If S30 fails in production, we can revert back to S29 in a very ease way.
 Once S30 is deployed S29 is completely abandonned. We keep the 5 youngest branches. Older release branches can be deleted safely.
