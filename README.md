@@ -2,6 +2,7 @@
 
 A samle project to streamline the dev-to-production flow.
 
+![](https://vsrm.dev.azure.com/diekeure-webdev/_apis/public/Release/badge/7c0fb88e-e81b-4a58-beb9-531f522fcd79/10/27)
 
 # Release flow
 
