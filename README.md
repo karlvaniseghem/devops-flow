@@ -99,5 +99,9 @@ Once `release/S30` is deployed `release/S29` is completely abandonned. We keep t
 
 We ensured that any changes that we brought into the sprint `release/S29` as a hotfix were also made in `master`. So those changes will also be in the `release/S30` branch that we create.
 
+
+# Stages
+
+![](./assets/pipeline_flow.jpg)
 ---
 <img src="./assets/DK-logo.jpg" height="75">
