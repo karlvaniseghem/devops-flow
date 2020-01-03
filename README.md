@@ -127,10 +127,6 @@ Our implementation of the devops principle is presented in the flowchart below
 ![Release Pipeline](./assets/pipeline_flow.jpg)
 
 ---
-<style>
-   img[alt="logo"] {
-      max-width: 200px;
-   }
-</style>
+
 
 ![logo](./assets/DK-logo.jpg)
