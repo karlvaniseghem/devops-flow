@@ -11,7 +11,7 @@ img[alt="logo"] {
 
 A samle project to streamline the dev-to-production flow.
 
-[![Build Status](https://dev.azure.com/diekeure-webdev/LK2020/_apis/build/status/Pipeline%20Proposal?branchName=master)](https://dev.azure.com/diekeure-webdev/LK2020/_build/latest?branchName=master)
+[![Build Status](https://dev.azure.com/diekeure-webdev/LK2020/_apis/build/status/Pipeline%20Proposal?branchName=master)](https://dev.azure.com/diekeure-webdev/LK2020/_build/latest?definitionId=19&branchName=master)
 
 # Release flow
 
