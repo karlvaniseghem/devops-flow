@@ -1,12 +1,3 @@
-<style>
-img[alt="DevOps"] {
-  max-height: 400px;
-}
-img[alt="logo"] {
-  max-width: 200px;
-}
-</style>
-
 # Introduction
 
 A samle project to streamline the dev-to-production flow.
@@ -116,7 +107,7 @@ We ensured that any changes that we brought into the sprint `release/S29` as a h
 > Work to continuously improve the flow (speed) and feedback of the software pipeline.  
 > -- <cite>[Ash Isaac](https://dev.to/ashokisaac/devops-in-3-sentences-17c4)</cite>
 
-![DevOps](./assets/DevOps.jpg)
+![DevOps](./assets/DevOps.jpg  =x400)
 
 ## DevOps Fundamentals
 
@@ -137,4 +128,4 @@ Our implementation of the devops principle is presented in the flowchart below
 
 ---
 
-![logo](./assets/DK-logo.jpg =75x)
+![logo](./assets/DK-logo.jpg =200x)
