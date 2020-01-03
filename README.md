@@ -124,4 +124,4 @@ Our implementation of the devops principle is presented in the flowchart below
 
 ---
 
-![logo](./assets/DK-logo.jpg)
+![logo](./assets/DK-logo.jpg =75x)
