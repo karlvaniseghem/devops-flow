@@ -29,7 +29,7 @@ Trunk-Based Development is best done with **short-lived feature branches**: one 
 
 ### Releasability of work in progress
 
-Trunk-Based Development will alway be **release ready**.
+Trunk-Based Development will always be **release ready**.
 
 The rule is to **never break the build** and **always be release ready**.
 
